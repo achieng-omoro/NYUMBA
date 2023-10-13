@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "145082008508",
+    "firebase_url": "https://nyumba-5cb73-default-rtdb.firebaseio.com",
+    "project_id": "nyumba-5cb73",
+    "storage_bucket": "nyumba-5cb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145082008508:android:c0497a324fcae6348ca1b9",
+        "android_client_info": {
+          "package_name": "com.example.nyumba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL2JI4O0lJygtWlIuH_ytYvpH5ssspV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145082008508:android:1701dda094d9ce908ca1b9",
+        "android_client_info": {
+          "package_name": "com.michael.nyumba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL2JI4O0lJygtWlIuH_ytYvpH5ssspV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
